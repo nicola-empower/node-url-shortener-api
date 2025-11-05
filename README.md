@@ -23,7 +23,7 @@ To run this project locally, you need Node.js installed.
     ```
     The API will be running on `http://localhost:3000`.
 
-## 🛠️ API Endpoints
+##  API Endpoints
 
 The application has two main endpoints:
 
